@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>HSK-SAR Uncensored Patch</name>
+    <author>Sid, Pacas and alot of others</author>
+    <url/>
+    <supportedVersions>
+        <li>1.4</li>
+    </supportedVersions>
+    <packageId>OTYOTY.SizedApparel.hsk</packageId>
+    <description>HSK sized apparel patches</description>
+    <modDependencies>
+        <li>
+            <packageId>otyoty.sizedapparel</packageId>
+            <displayName>Sized Apparel for RJW (SAR version)</displayName>
+            <downloadUrl>https://gitgud.io/ll.mirrors/sized-apparel-zero</downloadUrl>
+        </li>
+    </modDependencies>
+    <loadAfter>
+        <li>brrainz.harmony</li>
+        <li>erdelf.HumanoidAlienRaces</li>
+        <li>rim.job.world</li>
+        <li>shauaputa.rimnudeworld</li>
+        <li>c0ffee.rimworld.animations</li>
+        <li>tammybee.statueofcolonist</li>
+        <li>skyarkhangel.HSK</li>
+        <li>skyarkhangel.asarirace</li>
+        <li>Solaris.RatkinRaceMod</li>
+        <li>OTYOTY.SizedApparel</li>
+    </loadAfter>
+</ModMetaData>

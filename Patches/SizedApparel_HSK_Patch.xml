@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <li Class="XmlExtensions.PatchOperationSafeAddOrReplace">
+                <xpath>Defs/ThingDef[defName="Apparel_Cassie"]/apparel</xpath>
+                <compare>Both</compare>
+                <value>
+                    <tags>
+                        <li>SizedApparel_IgnorBreastSize</li>
+                        <li>SizedApparel_ShowPrivateCrotch</li>
+                    </tags>
+                </value>
+            </li>
+            
+            <li Class="XmlExtensions.PatchOperationSafeAddOrReplace">
+                <xpath>Defs/ThingDef[
+                defName="Apparello_Urbulence" or
+                defName="MedievalTimes_Cloak"
+                ]/apparel</xpath>
+                <compare>Both</compare>
+                <value>
+                    <tags>
+                        <li>SizedApparel_ShowBelly</li>
+                        <li>SizedApparel_ShowPrivateCrotch</li>
+                    </tags>
+                </value>
+            </li>
+            
+            <li Class="XmlExtensions.PatchOperationSafeAddOrReplace">
+                <xpath>Defs/ThingDef[
+                defName="Apparello_Syndicate" or
+                defName="Apparello_Brocade" or
+                defName="Apparello_GShell" or
+                defName="Apparello_GShellII" or
+                defName="Apparello_Meditux" or
+                defName="Apparello_RagDress" or
+                defName="Apparello_RagDressB" or
+                defName="Apparello_Smithaprontosaurus" or
+                defName="Apparello_PonPon" or
+                defName="Apparello_Syndicatellorare" or
+                defName="Apparel_PlateArmor" or
+                defName="Apparel_CollarShirt" or
+                defName="MedievalTimes_Plates_Steel_Middle" or
+                defName="MedievalTimes_Shirt_Tunic" or
+                defName="MedievalTimes_Hauberk" or
+                defName="PrisonerChains"
+                ]/apparel</xpath>
+                <compare>Both</compare>
+                <value>
+                    <tags>
+                        <li>SizedApparel_ShowPrivateCrotch</li>
+                    </tags>
+                </value>
+            </li>
+            
+            <li Class="PatchOperationFindMod">
+                <mods>
+                    <li>Royalty</li>
+                </mods>
+                <match Class="XmlExtensions.PatchOperationSafeAddOrReplace">
+                    <xpath>Defs/ThingDef[
+                    defName="Apparel_VestRoyal" or
+                    defName="Apparel_PsyfocusVest" or
+                    defName="Apparel_PsyfocusRobe"
+                    ]/apparel</xpath>
+                    <compare>Both</compare>
+                    <value>
+                        <tags>
+                            <li>SizedApparel_ShowPrivateCrotch</li>
+                        </tags>
+                    </value>
+                </match>
+            </li>
+        </operations>
+    </Operation>
+</Patch>
