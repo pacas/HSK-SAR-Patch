@@ -14,6 +14,12 @@
             <displayName>Sized Apparel for RJW (SAR version)</displayName>
             <downloadUrl>https://gitgud.io/ll.mirrors/sized-apparel-zero</downloadUrl>
         </li>
+        <li>
+            <packageId>Imranfish.XMLExtensions</packageId>
+            <displayName>XML Extensions</displayName>
+            <downloadUrl>https://github.com/15adhami/XmlExtensions/releases</downloadUrl>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/2574315206</steamWorkshopUrl>
+        </li>
     </modDependencies>
     <loadAfter>
         <li>brrainz.harmony</li>
