@@ -17,6 +17,7 @@
             <li Class="XmlExtensions.PatchOperationSafeAddOrReplace">
                 <xpath>Defs/ThingDef[
                 defName="Apparello_Urbulence" or
+                defName="Apparel_TribalA" or
                 defName="MedievalTimes_Cloak"
                 ]/apparel</xpath>
                 <compare>Both</compare>

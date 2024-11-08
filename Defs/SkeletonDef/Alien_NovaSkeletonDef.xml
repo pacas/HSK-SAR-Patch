@@ -115,113 +115,113 @@
 			</li>
 			<li>
 				<bodyType>Thin</bodyType>
-					<Bones>
-						<li>
-							<name>Vagina</name>
-							<south>
-								<InitialPosition>(0, 0, -0.312)</InitialPosition>
-								<InitialAngle>0</InitialAngle>
-							</south>
-							<north>
-								<InitialPosition>(-0.006, 0, -0.318)</InitialPosition>
-								<InitialAngle>0</InitialAngle>
-							</north>
-							<east>
-								<InitialPosition>(0.006, 0, -0.256)</InitialPosition>
-								<InitialAngle>0</InitialAngle>
-							</east>
-						</li>
-						<li>
-							<name>Breasts</name>
-							<south>
-								<InitialPosition>(0, 0, 0)</InitialPosition>
-								<InitialAngle>0</InitialAngle>
-							</south>
-							<north>
-								<InitialPosition>(0, 0, 0)</InitialPosition>
-								<InitialAngle>0</InitialAngle>
-							</north>
-							<east>
-								<InitialPosition>(0, 0, 0)</InitialPosition>
-								<InitialAngle>0</InitialAngle>
-							</east>
-						</li>
-						<li>
-							<name>Anus</name>
-							<south>
-								<InitialPosition>(0, 0, -0.260)</InitialPosition>
-								<InitialAngle>0</InitialAngle>
-							</south>
-							<north>
-								<InitialPosition>(-0.002, 0, -0.266)</InitialPosition>
-								<InitialAngle>0</InitialAngle>
-							</north>
-							<east>
-								<InitialPosition>(-0.137, 0, -0.211)</InitialPosition>
-								<InitialAngle>0</InitialAngle>
-							</east>
-						</li>
-						<li>
-							<name>Penis</name>
-							<south>
-								<InitialPosition>(0, 0, -0.307)</InitialPosition>
-								<InitialAngle>0</InitialAngle>
-							</south>
-							<north>
-								<InitialPosition>(0, 0, -0.305)</InitialPosition>
-								<InitialAngle>0</InitialAngle>
-							</north>
-							<east>
-								<InitialPosition>(0.008, 0, -0.248)</InitialPosition>
-								<InitialAngle>0</InitialAngle>
-							</east>
-						</li>
-						<li>
-							<name>Balls</name>
-							<south>
-								<InitialPosition>(0, 0, -0.307)</InitialPosition>
-								<InitialAngle>0</InitialAngle>
-							</south>
-							<north>
-								<InitialPosition>(0, 0, -0.305)</InitialPosition>
-								<InitialAngle>0</InitialAngle>
-							</north>
-							<east>
-								<InitialPosition>(0.007, 0, -0.248)</InitialPosition>
-								<InitialAngle>0</InitialAngle>
-							</east>
-						</li>
-						<li>
-							<name>Belly</name>
-							<south>
-								<InitialPosition>(0, 0, 0)</InitialPosition>
-								<InitialAngle>0</InitialAngle>
-							</south>
-							<north>
-								<InitialPosition>(0, 0, 0)</InitialPosition>
-								<InitialAngle>0</InitialAngle>
-							</north>
-							<east>
-								<InitialPosition>(0, 0, 0)</InitialPosition>
-								<InitialAngle>0</InitialAngle>
-							</east>
-						</li>
-						<li>
-							<name>PubicHair</name>
-							<south>
-								<InitialPosition>(0, 0, -0.281)</InitialPosition>
-								<InitialAngle>0</InitialAngle>
-							</south>
-							<north>
-								<InitialPosition>(0, 0, -0.291)</InitialPosition>
-								<InitialAngle>0</InitialAngle>
-							</north>
-							<east>
-								<InitialPosition>(0.021, 0, -0.219)</InitialPosition>
-								<InitialAngle>0</InitialAngle>
-							</east>
-						</li>
-					</Bones>
+                <Bones>
+                    <li>
+                        <name>Vagina</name>
+                        <south>
+                            <InitialPosition>(-0.002, 0, -0.400)</InitialPosition>
+                            <InitialAngle>0</InitialAngle>
+                        </south>
+                        <north>
+                            <InitialPosition>(-0.006, 0, -0.410)</InitialPosition>
+                            <InitialAngle>0</InitialAngle>
+                        </north>
+                        <east>
+                            <InitialPosition>(0.047, 0, -0.221)</InitialPosition>
+                            <InitialAngle>0</InitialAngle>
+                        </east>
+                    </li>
+                    <li>
+                        <name>Breasts</name>
+                        <south>
+                            <InitialPosition>(0, 0, 0)</InitialPosition>
+                            <InitialAngle>0</InitialAngle>
+                        </south>
+                        <north>
+                            <InitialPosition>(0, 0, 0)</InitialPosition>
+                            <InitialAngle>0</InitialAngle>
+                        </north>
+                        <east>
+                            <InitialPosition>(0, 0, 0)</InitialPosition>
+                            <InitialAngle>0</InitialAngle>
+                        </east>
+                    </li>
+                    <li>
+                        <name>Anus</name>
+                        <south>
+                            <InitialPosition>(0, 0, -0.390)</InitialPosition>
+                            <InitialAngle>0</InitialAngle>
+                        </south>
+                        <north>
+                            <InitialPosition>(-0.002, 0, -0.365)</InitialPosition>
+                            <InitialAngle>0</InitialAngle>
+                        </north>
+                        <east>
+                            <InitialPosition>(-0.137, 0, -0.215)</InitialPosition>
+                            <InitialAngle>0</InitialAngle>
+                        </east>
+                    </li>
+                    <li>
+                        <name>Penis</name>
+                        <south>
+                            <InitialPosition>(0, 0, -0.307)</InitialPosition>
+                            <InitialAngle>0</InitialAngle>
+                        </south>
+                        <north>
+                            <InitialPosition>(0, 0, -0.305)</InitialPosition>
+                            <InitialAngle>0</InitialAngle>
+                        </north>
+                        <east>
+                            <InitialPosition>(0.008, 0, -0.248)</InitialPosition>
+                            <InitialAngle>0</InitialAngle>
+                        </east>
+                    </li>
+                    <li>
+                        <name>Balls</name>
+                        <south>
+                            <InitialPosition>(0, 0, -0.307)</InitialPosition>
+                            <InitialAngle>0</InitialAngle>
+                        </south>
+                        <north>
+                            <InitialPosition>(0, 0, -0.305)</InitialPosition>
+                            <InitialAngle>0</InitialAngle>
+                        </north>
+                        <east>
+                            <InitialPosition>(0.007, 0, -0.248)</InitialPosition>
+                            <InitialAngle>0</InitialAngle>
+                        </east>
+                    </li>
+                    <li>
+                        <name>Belly</name>
+                        <south>
+                            <InitialPosition>(0, 0, 0)</InitialPosition>
+                            <InitialAngle>0</InitialAngle>
+                        </south>
+                        <north>
+                            <InitialPosition>(0, 0, 0)</InitialPosition>
+                            <InitialAngle>0</InitialAngle>
+                        </north>
+                        <east>
+                            <InitialPosition>(0, 0, 0)</InitialPosition>
+                            <InitialAngle>0</InitialAngle>
+                        </east>
+                    </li>
+                    <li>
+                        <name>PubicHair</name>
+                        <south>
+                            <InitialPosition>(0, 0, -0.281)</InitialPosition>
+                            <InitialAngle>0</InitialAngle>
+                        </south>
+                        <north>
+                            <InitialPosition>(0, 0, -0.291)</InitialPosition>
+                            <InitialAngle>0</InitialAngle>
+                        </north>
+                        <east>
+                            <InitialPosition>(0.021, 0, -0.219)</InitialPosition>
+                            <InitialAngle>0</InitialAngle>
+                        </east>
+                    </li>
+                </Bones>
 			</li>
 			<li>
 				<bodyType>Male</bodyType>

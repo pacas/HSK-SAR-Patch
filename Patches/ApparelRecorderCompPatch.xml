@@ -27,6 +27,20 @@
                     </value>
                 </match>
             </li>
+    
+            <li Class="PatchOperationFindMod">
+                <mods>
+                    <li>AsariRace</li>
+                </mods>
+                <match Class="PatchOperationAdd">
+                    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="Alien_Asari"]/comps</xpath>
+                    <value>
+                        <li>
+                            <compClass>SizedApparel.ApparelRecorderComp</compClass>
+                        </li>
+                    </value>
+                </match>
+            </li>
         </operations>
     </Operation>
 </Patch>
