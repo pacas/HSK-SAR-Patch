@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Patch>
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>NewRatkinPlus</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<success>Always</success>
+			<operations>
+				<li Class="PatchOperationAdd">
+					<xpath>Defs/ThingDef[defName = "RK_Cardigan"]/apparel/tags</xpath>
+					<value>
+						<li>SizedApparel_ShowPrivateCrotch</li>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>Defs/ThingDef[defName = "RK_RoyalRobe"]/apparel/tags</xpath>
+					<value>
+						<li>SizedApparel_ShowPrivateCrotch</li>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>Defs/ThingDef[defName = "RK_WinterRobe"]/apparel/tags</xpath>
+					<value>
+						<li>SizedApparel_ShowPrivateCrotch</li>
+					</value>
+				</li>
+					<li Class="PatchOperationAdd">
+					<xpath>Defs/ThingDef[defName = "RK_WoodenShield"]/apparel/tags</xpath>
+					<value>
+						<li>SizedApparel_IgnorBreastSize</li>
+					</value>
+				</li>
+					<li Class="PatchOperationAdd">
+					<xpath>Defs/ThingDef[defName = "RK_HeavyShield"]/apparel/tags</xpath>
+					<value>
+						<li>SizedApparel_IgnorBreastSize</li>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>Defs/ThingDef[defName = "RK_HeavyShield_Big"]/apparel/tags</xpath>
+					<value>
+						<li>SizedApparel_IgnorBreastSize</li>
+					</value>
+				</li>
+			</operations>
+		</match>
+	</Operation>
+</Patch>

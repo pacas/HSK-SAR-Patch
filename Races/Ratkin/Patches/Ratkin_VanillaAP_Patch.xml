@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationSequence">
+    <operations>
+      <li Class="PatchOperationConditional">
+        <xpath>/Defs/AlienRace.ThingDef_AlienRace[defName = "Ratkin"]/alienRace/graphicPaths/apparel</xpath>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>/Defs/AlienRace.ThingDef_AlienRace[defName = "Ratkin" or defName = "Ratkin_Su"]/alienRace/graphicPaths</xpath>
+          <value>
+            <apparel></apparel>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>/Defs/AlienRace.ThingDef_AlienRace[defName = "Ratkin"]/alienRace/graphicPaths/apparel/individualPaths</xpath>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>/Defs/AlienRace.ThingDef_AlienRace[defName = "Ratkin" or defName = "Ratkin_Su"]/alienRace/graphicPaths/apparel</xpath>
+          <value>
+            <individualPaths></individualPaths>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationAdd" MayRequire="Ludeon.RimWorld.Ideology">
+        <xpath>/Defs/AlienRace.ThingDef_AlienRace[defName = "Ratkin" or defName = "Ratkin_Su"]/alienRace/graphicPaths/apparel/individualPaths</xpath>
+        <value>
+          <li>
+            <key>Apparel_BodyStrap</key>
+            <value>Things/Pawn/Ratkin/Apparel/BodyStrap/BodyStrap</value>
+          </li>
+        </value>
+      </li>
+      <li Class="PatchOperationAdd">
+        <xpath>/Defs/AlienRace.ThingDef_AlienRace[defName = "Ratkin" or defName = "Ratkin_Su"]/alienRace/graphicPaths/apparel/individualPaths</xpath>
+        <value>
+          <li>
+            <key>Apparel_TribalA</key>
+            <value>Things/Pawn/Ratkin/Apparel/TribalA/TribalA</value>
+          </li>
+        </value>
+      </li>
+    </operations>
+  </Operation>
+</Patch>
