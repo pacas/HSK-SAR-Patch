@@ -17,7 +17,7 @@
 							<!-- rjw private parts and breasts has different step method with serverity. -->
 							<mustHaveBone>false</mustHaveBone>
 							<centeredTexture>false</centeredTexture>
-							<!-- TODO? <TexturePaths/> -->
+							<defNameOverride>Human</defNameOverride>
 							<depthOffset>
 								<south>0.0113</south>
 								<north>0.001</north>
@@ -50,7 +50,7 @@
 							<isBreasts>false</isBreasts>
 							<mustHaveBone>true</mustHaveBone>
 							<centeredTexture>true</centeredTexture>
-							<!-- TODO? <TexturePaths/> -->
+							<defNameOverride>Human</defNameOverride>
 							<depthOffset>
 								<south>0.0088</south>
 								<north>0.0100</north>
@@ -66,7 +66,7 @@
 							<colorType>Skin</colorType>
 							<isBreasts>false</isBreasts>
 							<centeredTexture>true</centeredTexture>
-							<!-- TODO? <TexturePaths/> -->
+							<defNameOverride>Human</defNameOverride>
 							<depthOffset>
 								<south>0.0093</south>
 								<north>0.0105</north>
@@ -82,7 +82,7 @@
 							<colorType>Skin</colorType>
 							<isBreasts>false</isBreasts>
 							<centeredTexture>false</centeredTexture>
-							<!-- TODO? <TexturePaths/> -->
+							<defNameOverride>Human</defNameOverride>
 							<depthOffset>
 								<south>0.0098</south>
 								<north>0.0002</north>
@@ -98,7 +98,7 @@
 							<colorType>Skin</colorType>
 							<isBreasts>false</isBreasts>
 							<centeredTexture>true</centeredTexture>
-							<!-- TODO? <TexturePaths/> -->
+							<defNameOverride>Human</defNameOverride>
 							<depthOffset>
 								<south>0.0108</south>
 								<north>0.0025</north>
@@ -115,7 +115,7 @@
 							<colorType>Skin</colorType>
 							<isBreasts>false</isBreasts>
 							<centeredTexture>true</centeredTexture>
-							<!-- TODO? <TexturePaths/> -->
+							<defNameOverride>Human</defNameOverride>
 							<depthOffset>
 								<south>0.0096</south>
 								<north>0.0085</north>
@@ -131,7 +131,7 @@
 							<colorType>Hair</colorType>
 							<isBreasts>false</isBreasts>
 							<centeredTexture>true</centeredTexture>
-							<!-- TODO? <TexturePaths/> -->
+							<defNameOverride>Human</defNameOverride>
 							<depthOffset>
 								<south>0.0099</south>
 								<north>0.0099</north>

@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <loadFolders>
-    <v1.4>
-		<li>/</li>
-		<li>1.4</li>
-	</v1.4>
     <v1.5>
 		<li>/</li>
 		<li>1.5</li>
         <li IfModActive="runnelatki.rabbieracemod.sk">Races/Rabbie</li>
         <li IfModActive="solaris.ratkinracemod">Races/Ratkin</li>
+        <li IfModActive="odysseylotus.seren">Races/Seren</li>
+        <li IfModActive="chjees.androids">Races/Androids</li>
 	</v1.5>
 </loadFolders>

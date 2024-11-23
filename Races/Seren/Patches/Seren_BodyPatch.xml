@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="Seren"]/alienRace/graphicPaths</xpath>
+        <value>
+            <graphicPaths>
+                <skinShader>CutoutSkin</skinShader>
+				<head>Things/Seren/Heads/</head>
+				<headMasks>Things/Seren/Masks/Head/Mask</headMasks>
+                <body>
+                    <path>Things/Pawn/Humanlike/Bodies/</path>
+                    <bodytypeGraphics>
+                        <Male>Things/Pawn/Humanlike/Bodies/Naked_Male</Male>
+                        <Female>Things/Pawn/Humanlike/Bodies/Naked_Female</Female>
+                        <Thin>Things/Pawn/Humanlike/Bodies/Naked_Thin</Thin>
+                        <Child MayRequire="Ludeon.RimWorld.Biotech">Things/Pawn/Humanlike/Bodies/Child/Naked_Child</Child>
+                        <Baby MayRequire="Ludeon.RimWorld.Biotech">Things/Pawn/Humanlike/Bodies/Naked_Baby</Baby>
+                    </bodytypeGraphics>
+                </body>
+            </graphicPaths>
+        </value>
+    </Operation>
+</Patch>

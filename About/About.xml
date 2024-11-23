@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
     <name>HSK-SAR Uncensored Patch</name>
-    <author>Sid, Pacas and alot of others</author>
+    <author>Sid, Pacas and a lot of others</author>
     <url/>
     <supportedVersions>
-        <li>1.4</li>
         <li>1.5</li>
     </supportedVersions>
     <packageId>OTYOTY.SizedApparel.hsk</packageId>
-    <description>HSK sized apparel patches</description>
+    <description>HSK patches for SAR Zero. Do not use with SAR Alien Textures.</description>
     <modDependencies>
         <li>
             <packageId>otyoty.sizedapparel</packageId>
@@ -26,12 +25,18 @@
         <li>brrainz.harmony</li>
         <li>erdelf.HumanoidAlienRaces</li>
         <li>rim.job.world</li>
-        <li>shauaputa.rimnudeworld</li>
         <li>c0ffee.rimworld.animations</li>
         <li>tammybee.statueofcolonist</li>
         <li>skyarkhangel.HSK</li>
         <li>skyarkhangel.asarirace</li>
         <li>Solaris.RatkinRaceMod</li>
+        <li>runnelatki.rabbieracemod.sk</li>
         <li>OTYOTY.SizedApparel</li>
+        <li>otyoty.sizedapparel.head</li>
+        <li>otyoty.sizedapparel.extended</li>
     </loadAfter>
+    <incompatibleWith>
+        <li>nyaamz.sa.alientextures</li>
+        <li>shauaputa.rimnudeworld</li>
+    </incompatibleWith>
 </ModMetaData>
