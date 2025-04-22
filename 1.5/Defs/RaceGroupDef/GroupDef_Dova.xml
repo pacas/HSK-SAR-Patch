@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<rjw.RaceGroupDef>
+		<defName>HSK_Elves_DovaNova</defName>
+		<raceNames>
+			<li>Alien_Dova</li>
+			<li>Alien_Nova</li>
+		</raceNames>
+		<anuses>
+			<li>ElfAnus</li>
+		</anuses>
+		<femaleBreasts>
+			<li>Breasts</li>
+		</femaleBreasts>
+		<femaleGenitals>
+			<li>ElfVagina</li>
+		</femaleGenitals>
+		<maleBreasts>
+			<li>Breasts</li>
+		</maleBreasts>
+		<maleGenitals>
+			<li>ElfPenis</li>
+		</maleGenitals>
+		<tags>
+			<li>Skin</li>
+		</tags>
+        <raceSexDrive>0.7</raceSexDrive>
+        <hasSingleGender>false</hasSingleGender>
+        <hasSexNeed>true</hasSexNeed>
+        <hasFertility>true</hasFertility>
+        <hasPregnancy>true</hasPregnancy>
+        <oviPregnancy>false</oviPregnancy>
+        <ImplantEggs>false</ImplantEggs>
+	</rjw.RaceGroupDef>
+</Defs>

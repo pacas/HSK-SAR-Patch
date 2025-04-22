@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <rjw.RaceGroupDef>
+        <defName>HSK_Asari</defName>
+        <raceNames>
+            <li>Alien_Asari</li>
+        </raceNames>
+        <anuses>
+            <li>Anus</li>
+        </anuses>
+        <femaleBreasts>
+            <li>Breasts</li>
+        </femaleBreasts>
+        <femaleGenitals>
+            <li>Vagina</li>
+        </femaleGenitals>
+        <maleBreasts>
+            <li>Breasts</li>
+        </maleBreasts>
+        <maleGenitals>
+            <li>Penis</li>
+        </maleGenitals>
+        <tags>
+            <li>Skin</li>
+        </tags>
+        <raceSexDrive>0.6</raceSexDrive>
+        <hasSingleGender>true</hasSingleGender>
+        <hasSexNeed>true</hasSexNeed>
+        <hasFertility>true</hasFertility>
+        <hasPregnancy>true</hasPregnancy>
+        <oviPregnancy>false</oviPregnancy>
+        <ImplantEggs>false</ImplantEggs>
+    </rjw.RaceGroupDef>
+</Defs>

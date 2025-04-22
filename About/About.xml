@@ -15,6 +15,16 @@
             <downloadUrl>https://gitgud.io/ll.mirrors/sized-apparel-zero</downloadUrl>
         </li>
         <li>
+            <packageId>rim.job.world</packageId>
+            <displayName>RimJobWorld</displayName>
+            <downloadUrl>https://www.loverslab.com/files/file/7257-rimjobworld/</downloadUrl>
+        </li>
+        <li>
+            <packageId>asmr.rjw.racesupport</packageId>
+            <displayName>RJW Race Support</displayName>
+            <downloadUrl>https://www.loverslab.com/files/file/7257-rimjobworld/</downloadUrl>
+        </li>
+        <li>
             <packageId>Imranfish.XMLExtensions</packageId>
             <displayName>XML Extensions</displayName>
             <downloadUrl>https://github.com/15adhami/XmlExtensions/releases</downloadUrl>

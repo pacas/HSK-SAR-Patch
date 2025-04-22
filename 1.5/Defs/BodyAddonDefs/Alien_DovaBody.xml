@@ -16,12 +16,12 @@
 							<mustHaveBone>false</mustHaveBone>
 							<centeredTexture>false</centeredTexture>
 							<defNameOverride>Human</defNameOverride>
-							<depthOffset>
-								<south>0.0113</south>
-								<north>0.001</north>
-								<east>0.0113</east>
-								<west>0.0113</west>
-							</depthOffset>
+							<layerOffset>
+								<south>1.2</south>
+								<north>-1</north>
+								<east>1.6</east>
+								<west>1.6</west>
+							</layerOffset>
 						</li>
 						<li>
 							<partName>Nipples</partName>
@@ -33,12 +33,12 @@
 							<mustHaveBone>false</mustHaveBone>
 							<centeredTexture>false</centeredTexture>
 							<defNameOverride>Human</defNameOverride>
-							<depthOffset>
-								<south>0.0114</south>
-								<north>0.0011</north>
-								<east>0.0114</east>
-								<west>0.0114</west>
-							</depthOffset>
+							<layerOffset>
+								<south>1.6</south>
+								<north>-1</north>
+								<east>1.8</east>
+								<west>1.8</west>
+							</layerOffset>
 						</li>
 						<li>
 							<partName>Vagina</partName>
@@ -50,12 +50,12 @@
 							<mustHaveBone>true</mustHaveBone>
 							<centeredTexture>true</centeredTexture>
 							<defNameOverride>Human</defNameOverride>
-							<depthOffset>
-								<south>0.0088</south>
-								<north>0.0100</north>
-								<east>0.0088</east>
-								<west>0.0088</west>
-							</depthOffset>
+							<layerOffset>
+								<south>1</south>
+								<north>1.2</north>
+								<east>-1</east>
+								<west>-1</west>
+							</layerOffset>
 						</li>
 						<li>
 							<partName>Anus</partName>
@@ -66,12 +66,12 @@
 							<isBreasts>false</isBreasts>
 							<centeredTexture>true</centeredTexture>
 							<defNameOverride>Human</defNameOverride>
-							<depthOffset>
-								<south>0.0093</south>
-								<north>0.0105</north>
-								<east>0.0093</east>
-								<west>0.0093</west>
-							</depthOffset>
+							<layerOffset>
+								<south>0.8</south>
+								<north>1.6</north>
+								<east>0.8</east>
+								<west>0.8</west>
+							</layerOffset>
 						</li>
 						<li>
 							<partName>Belly</partName>
@@ -82,12 +82,12 @@
 							<isBreasts>false</isBreasts>
 							<centeredTexture>false</centeredTexture>
 							<defNameOverride>Human</defNameOverride>
-							<depthOffset>
-								<south>0.0098</south>
-								<north>0.0002</north>
-								<east>0.0098</east>
-								<west>0.0098</west>
-							</depthOffset>
+							<layerOffset>
+								<south>1</south>
+								<north>-0.5</north>
+								<east>1.4</east>
+								<west>1.4</west>
+							</layerOffset>
 						</li>
 						<li>
 							<partName>Penis</partName>
@@ -98,12 +98,12 @@
 							<isBreasts>false</isBreasts>
 							<centeredTexture>true</centeredTexture>
 							<defNameOverride>Human</defNameOverride>
-							<depthOffset>
-								<south>0.0108</south>
-								<north>0.0025</north>
-								<east>0.0108</east>
-								<west>0.0108</west>
-							</depthOffset>
+							<layerOffset>
+								<south>1.8</south>
+								<north>0.4</north>
+								<east>1.8</east>
+								<west>1.8</west>
+							</layerOffset>
 						</li>
 						<li>
 							<partName>Balls</partName>
@@ -115,12 +115,12 @@
 							<isBreasts>false</isBreasts>
 							<centeredTexture>true</centeredTexture>
 							<defNameOverride>Human</defNameOverride>
-							<depthOffset>
-								<south>0.0096</south>
-								<north>0.0085</north>
-								<east>0.0096</east>
-								<west>0.0096</west>
-							</depthOffset>
+							<layerOffset>
+								<south>1.2</south>
+								<north>0.8</north>
+								<east>1.2</east>
+								<west>1.2</west>
+							</layerOffset>
 						</li>
 						<li>
 							<partName>PubicHair</partName>
@@ -131,12 +131,12 @@
 							<isBreasts>false</isBreasts>
 							<centeredTexture>true</centeredTexture>
 							<defNameOverride>Human</defNameOverride>
-							<depthOffset>
-								<south>0.0099</south>
-								<north>0.0099</north>
-								<east>0.0099</east>
-								<west>0.0099</west>
-							</depthOffset>
+							<layerOffset>
+								<south>1.6</south>
+								<north>1.6</north>
+								<east>1.6</east>
+								<west>1.6</west>
+							</layerOffset>
 						</li>
 					</Addons>
 			</li>
@@ -152,12 +152,12 @@
 							<isBreasts>true</isBreasts>
 							<centeredTexture>false</centeredTexture>
 							<defNameOverride>Human</defNameOverride>
-							<depthOffset>
-								<south>0.0113</south>
-								<north>0.001</north>
-								<east>0.0113</east>
-								<west>0.0113</west>
-							</depthOffset>
+							<layerOffset>
+								<south>1.2</south>
+								<north>-1</north>
+								<east>1.6</east>
+								<west>1.6</west>
+							</layerOffset>
 						</li>
 						<li>
 							<partName>Nipples</partName>
@@ -168,12 +168,13 @@
 							<isBreasts>true</isBreasts>
 							<mustHaveBone>false</mustHaveBone>
 							<centeredTexture>false</centeredTexture>
-							<depthOffset>
-								<south>0.0114</south>
-								<north>0.0011</north>
-								<east>0.0114</east>
-								<west>0.0114</west>
-							</depthOffset>
+							<defNameOverride>Human</defNameOverride>
+							<layerOffset>
+								<south>1.6</south>
+								<north>-1</north>
+								<east>1.8</east>
+								<west>1.8</west>
+							</layerOffset>
 						</li>
 						<li>
 							<partName>Vagina</partName>
@@ -184,12 +185,12 @@
 							<isBreasts>false</isBreasts>
 							<centeredTexture>true</centeredTexture>
 							<defNameOverride>Human</defNameOverride>
-							<depthOffset>
-								<south>0.0088</south>
-								<north>0.0100</north>
-								<east>0.0088</east>
-								<west>0.0088</west>
-							</depthOffset>
+							<layerOffset>
+								<south>1</south>
+								<north>1.2</north>
+								<east>-1</east>
+								<west>-1</west>
+							</layerOffset>
 						</li>
 						<li>
 							<partName>Anus</partName>
@@ -200,12 +201,12 @@
 							<isBreasts>false</isBreasts>
 							<centeredTexture>true</centeredTexture>
 							<defNameOverride>Human</defNameOverride>
-							<depthOffset>
-								<south>0.0093</south>
-								<north>0.0105</north>
-								<east>0.0093</east>
-								<west>0.0093</west>
-							</depthOffset>
+							<layerOffset>
+								<south>0.8</south>
+								<north>1.6</north>
+								<east>0.8</east>
+								<west>0.8</west>
+							</layerOffset>
 						</li>
 						<li>
 							<partName>Belly</partName>
@@ -216,12 +217,12 @@
 							<isBreasts>false</isBreasts>
 							<centeredTexture>false</centeredTexture>
 							<defNameOverride>Human</defNameOverride>
-							<depthOffset>
-								<south>0.0098</south>
-								<north>0.0002</north>
-								<east>0.0098</east>
-								<west>0.0098</west>
-							</depthOffset>
+							<layerOffset>
+								<south>1</south>
+								<north>-0.5</north>
+								<east>1.4</east>
+								<west>1.4</west>
+							</layerOffset>
 						</li>
 						<li>
 							<partName>Penis</partName>
@@ -232,12 +233,12 @@
 							<isBreasts>false</isBreasts>
 							<centeredTexture>true</centeredTexture>
 							<defNameOverride>Human</defNameOverride>
-							<depthOffset>
-								<south>0.0108</south>
-								<north>0.0025</north>
-								<east>0.0108</east>
-								<west>0.0108</west>
-							</depthOffset>
+							<layerOffset>
+								<south>1.8</south>
+								<north>0.4</north>
+								<east>1.8</east>
+								<west>1.8</west>
+							</layerOffset>
 						</li>
 						<li>
 							<partName>Balls</partName>
@@ -249,12 +250,12 @@
 							<isBreasts>false</isBreasts>
 							<centeredTexture>true</centeredTexture>
 							<defNameOverride>Human</defNameOverride>
-							<depthOffset>
-								<south>0.0096</south>
-								<north>0.0085</north>
-								<east>0.0096</east>
-								<west>0.0096</west>
-							</depthOffset>
+							<layerOffset>
+								<south>1.2</south>
+								<north>0.8</north>
+								<east>1.2</east>
+								<west>1.2</west>
+							</layerOffset>
 						</li>
 						<li>
 							<partName>PubicHair</partName>
@@ -265,12 +266,12 @@
 							<isBreasts>false</isBreasts>
 							<centeredTexture>true</centeredTexture>
 							<defNameOverride>Human</defNameOverride>
-							<depthOffset>
-								<south>0.0099</south>
-								<north>0.0099</north>
-								<east>0.0099</east>
-								<west>0.0099</west>
-							</depthOffset>
+							<layerOffset>
+								<south>1.6</south>
+								<north>1.6</north>
+								<east>1.6</east>
+								<west>1.6</west>
+							</layerOffset>
 						</li>
 					</Addons>
 			</li>
@@ -286,12 +287,12 @@
 							<isBreasts>true</isBreasts>
 							<centeredTexture>false</centeredTexture>
 							<defNameOverride>Human</defNameOverride>
-							<depthOffset>
-								<south>0.0113</south>
-								<north>0.001</north>
-								<east>0.0113</east>
-								<west>0.0113</west>
-							</depthOffset>
+							<layerOffset>
+								<south>1.2</south>
+								<north>-1</north>
+								<east>1.6</east>
+								<west>1.6</west>
+							</layerOffset>
 						</li>
 						<li>
 							<partName>Nipples</partName>
@@ -302,12 +303,13 @@
 							<isBreasts>true</isBreasts>
 							<mustHaveBone>false</mustHaveBone>
 							<centeredTexture>false</centeredTexture>
-							<depthOffset>
-								<south>0.0114</south>
-								<north>0.0011</north>
-								<east>0.0114</east>
-								<west>0.0114</west>
-							</depthOffset>
+							<defNameOverride>Human</defNameOverride>
+							<layerOffset>
+								<south>1.6</south>
+								<north>-1</north>
+								<east>1.8</east>
+								<west>1.8</west>
+							</layerOffset>
 					   </li>
 						<li>
 							<partName>Vagina</partName>
@@ -318,12 +320,12 @@
 							<isBreasts>false</isBreasts>
 							<centeredTexture>true</centeredTexture>
 							<defNameOverride>Human</defNameOverride>
-							<depthOffset>
-								<south>0.0088</south>
-								<north>0.0100</north>
-								<east>0.0088</east>
-								<west>0.0088</west>
-							</depthOffset>
+							<layerOffset>
+								<south>1</south>
+								<north>1.2</north>
+								<east>-1</east>
+								<west>-1</west>
+							</layerOffset>
 						</li>
 						<li>
 							<partName>Anus</partName>
@@ -334,12 +336,12 @@
 							<isBreasts>false</isBreasts>
 							<centeredTexture>true</centeredTexture>
 							<defNameOverride>Human</defNameOverride>
-							<depthOffset>
-								<south>0.0093</south>
-								<north>0.0105</north>
-								<east>0.0093</east>
-								<west>0.0093</west>
-							</depthOffset>
+							<layerOffset>
+								<south>0.8</south>
+								<north>1.6</north>
+								<east>0.8</east>
+								<west>0.8</west>
+							</layerOffset>
 						</li>
 						<li>
 							<partName>Belly</partName>
@@ -350,12 +352,12 @@
 							<isBreasts>false</isBreasts>
 							<centeredTexture>false</centeredTexture>
 							<defNameOverride>Human</defNameOverride>
-							<depthOffset>
-								<south>0.0098</south>
-								<north>0.0002</north>
-								<east>0.0098</east>
-								<west>0.0098</west>
-							</depthOffset>
+							<layerOffset>
+								<south>1</south>
+								<north>-0.5</north>
+								<east>1.4</east>
+								<west>1.4</west>
+							</layerOffset>
 						</li>
 						<li>
 							<partName>Penis</partName>
@@ -366,12 +368,12 @@
 							<isBreasts>false</isBreasts>
 							<centeredTexture>true</centeredTexture>
 							<defNameOverride>Human</defNameOverride>
-							<depthOffset>
-								<south>0.0108</south>
-								<north>0.0025</north>
-								<east>0.0108</east>
-								<west>0.0108</west>
-							</depthOffset>
+							<layerOffset>
+								<south>1.8</south>
+								<north>0.4</north>
+								<east>1.8</east>
+								<west>1.8</west>
+							</layerOffset>
 						</li>
 						<li>
 							<partName>Balls</partName>
@@ -383,12 +385,12 @@
 							<isBreasts>false</isBreasts>
 							<centeredTexture>true</centeredTexture>
 							<defNameOverride>Human</defNameOverride>
-							<depthOffset>
-								<south>0.0096</south>
-								<north>0.0085</north>
-								<east>0.0096</east>
-								<west>0.0096</west>
-							</depthOffset>
+							<layerOffset>
+								<south>1.2</south>
+								<north>0.8</north>
+								<east>1.2</east>
+								<west>1.2</west>
+							</layerOffset>
 						</li>
 						<li>
 							<partName>PubicHair</partName>
@@ -399,12 +401,12 @@
 							<isBreasts>false</isBreasts>
 							<centeredTexture>true</centeredTexture>
 							<defNameOverride>Human</defNameOverride>
-							<depthOffset>
-								<south>0.0099</south>
-								<north>0.0099</north>
-								<east>0.0099</east>
-								<west>0.0099</west>
-							</depthOffset>
+							<layerOffset>
+								<south>1.6</south>
+								<north>1.6</north>
+								<east>1.6</east>
+								<west>1.6</west>
+							</layerOffset>
 						</li>
 					</Addons>
 			</li>
@@ -420,12 +422,12 @@
 							<isBreasts>true</isBreasts>
 							<centeredTexture>false</centeredTexture>
 							<defNameOverride>Human</defNameOverride>
-							<depthOffset>
-								<south>0.0113</south>
-								<north>0.001</north>
-								<east>0.0113</east>
-								<west>0.0113</west>
-							</depthOffset>
+							<layerOffset>
+								<south>1.2</south>
+								<north>-1</north>
+								<east>1.6</east>
+								<west>1.6</west>
+							</layerOffset>
 						</li>
 						<li>
 							<partName>Nipples</partName>
@@ -436,12 +438,13 @@
 							<isBreasts>true</isBreasts>
 							<mustHaveBone>false</mustHaveBone>
 							<centeredTexture>false</centeredTexture>
-							<depthOffset>
-								<south>0.0114</south>
-								<north>0.0011</north>
-								<east>0.0114</east>
-								<west>0.0114</west>
-							</depthOffset>
+							<defNameOverride>Human</defNameOverride>
+							<layerOffset>
+								<south>1.6</south>
+								<north>-1</north>
+								<east>1.8</east>
+								<west>1.8</west>
+							</layerOffset>
 						</li>
 						<li>
 							<partName>Vagina</partName>
@@ -452,12 +455,12 @@
 							<isBreasts>false</isBreasts>
 							<centeredTexture>true</centeredTexture>
 							<defNameOverride>Human</defNameOverride>
-							<depthOffset>
-								<south>0.0088</south>
-								<north>0.0100</north>
-								<east>0.0088</east>
-								<west>0.0088</west>
-							</depthOffset>
+							<layerOffset>
+								<south>1</south>
+								<north>1.2</north>
+								<east>-1</east>
+								<west>-1</west>
+							</layerOffset>
 						</li>
 						<li>
 							<partName>Anus</partName>
@@ -468,12 +471,12 @@
 							<isBreasts>false</isBreasts>
 							<centeredTexture>true</centeredTexture>
 							<defNameOverride>Human</defNameOverride>
-							<depthOffset>
-								<south>0.0093</south>
-								<north>0.0105</north>
-								<east>0.0093</east>
-								<west>0.0093</west>
-							</depthOffset>
+							<layerOffset>
+								<south>0.8</south>
+								<north>1.6</north>
+								<east>0.8</east>
+								<west>0.8</west>
+							</layerOffset>
 						</li>
 						<li>
 							<partName>Belly</partName>
@@ -484,12 +487,12 @@
 							<isBreasts>false</isBreasts>
 							<centeredTexture>false</centeredTexture>
 							<defNameOverride>Human</defNameOverride>
-							<depthOffset>
-								<south>0.0098</south>
-								<north>0.0002</north>
-								<east>0.0098</east>
-								<west>0.0098</west>
-							</depthOffset>
+							<layerOffset>
+								<south>1</south>
+								<north>-0.5</north>
+								<east>1.4</east>
+								<west>1.4</west>
+							</layerOffset>
 						</li>
 						<li>
 							<partName>Penis</partName>
@@ -500,12 +503,12 @@
 							<isBreasts>false</isBreasts>
 							<centeredTexture>true</centeredTexture>
 							<defNameOverride>Human</defNameOverride>
-							<depthOffset>
-								<south>0.0108</south>
-								<north>0.0025</north>
-								<east>0.0108</east>
-								<west>0.0108</west>
-							</depthOffset>
+							<layerOffset>
+								<south>1.8</south>
+								<north>0.4</north>
+								<east>1.8</east>
+								<west>1.8</west>
+							</layerOffset>
 						</li>
 						<li>
 							<partName>Balls</partName>
@@ -517,12 +520,12 @@
 							<isBreasts>false</isBreasts>
 							<centeredTexture>true</centeredTexture>
 							<defNameOverride>Human</defNameOverride>
-							<depthOffset>
-								<south>0.0096</south>
-								<north>0.0085</north>
-								<east>0.0096</east>
-								<west>0.0096</west>
-							</depthOffset>
+							<layerOffset>
+								<south>1.2</south>
+								<north>0.8</north>
+								<east>1.2</east>
+								<west>1.2</west>
+							</layerOffset>
 						</li>
 						<li>
 							<partName>PubicHair</partName>
@@ -533,12 +536,12 @@
 							<isBreasts>false</isBreasts>
 							<centeredTexture>true</centeredTexture>
 							<defNameOverride>Human</defNameOverride>
-							<depthOffset>
-								<south>0.0099</south>
-								<north>0.0099</north>
-								<east>0.0099</east>
-								<west>0.0099</west>
-							</depthOffset>
+							<layerOffset>
+								<south>1.6</south>
+								<north>1.6</north>
+								<east>1.6</east>
+								<west>1.6</west>
+							</layerOffset>
 						</li>
 					</Addons>
 			</li>
@@ -554,12 +557,12 @@
 							<isBreasts>true</isBreasts>
 							<centeredTexture>false</centeredTexture>
 							<defNameOverride>Human</defNameOverride>
-							<depthOffset>
-								<south>0.0113</south>
-								<north>0.001</north>
-								<east>0.0113</east>
-								<west>0.0113</west>
-							</depthOffset>
+							<layerOffset>
+								<south>1.2</south>
+								<north>-1</north>
+								<east>1.6</east>
+								<west>1.6</west>
+							</layerOffset>
 						</li>
 						<li>
 							<partName>Nipples</partName>
@@ -570,12 +573,13 @@
 							<isBreasts>true</isBreasts>
 							<mustHaveBone>false</mustHaveBone>
 							<centeredTexture>false</centeredTexture>
-							<depthOffset>
-								<south>0.0114</south>
-								<north>0.0011</north>
-								<east>0.0114</east>
-								<west>0.0114</west>
-							</depthOffset>
+							<defNameOverride>Human</defNameOverride>
+							<layerOffset>
+								<south>1.6</south>
+								<north>-1</north>
+								<east>1.8</east>
+								<west>1.8</west>
+							</layerOffset>
 						</li>
 						<li>
 							<partName>Vagina</partName>
@@ -586,12 +590,12 @@
 							<isBreasts>false</isBreasts>
 							<centeredTexture>true</centeredTexture>
 							<defNameOverride>Human</defNameOverride>
-							<depthOffset>
-								<south>0.0088</south>
-								<north>0.0100</north>
-								<east>0.0088</east>
-								<west>0.0088</west>
-							</depthOffset>
+							<layerOffset>
+								<south>1</south>
+								<north>1.2</north>
+								<east>-1</east>
+								<west>-1</west>
+							</layerOffset>
 						</li>
 						<li>
 							<partName>Anus</partName>
@@ -602,12 +606,12 @@
 							<isBreasts>false</isBreasts>
 							<centeredTexture>true</centeredTexture>
 							<defNameOverride>Human</defNameOverride>
-							<depthOffset>
-								<south>0.0093</south>
-								<north>0.0105</north>
-								<east>0.0093</east>
-								<west>0.0093</west>
-							</depthOffset>
+							<layerOffset>
+								<south>0.8</south>
+								<north>1.6</north>
+								<east>0.8</east>
+								<west>0.8</west>
+							</layerOffset>
 						</li>
 						<li>
 							<partName>Belly</partName>
@@ -618,12 +622,12 @@
 							<isBreasts>false</isBreasts>
 							<centeredTexture>false</centeredTexture>
 							<defNameOverride>Human</defNameOverride>
-							<depthOffset>
-								<south>0.0098</south>
-								<north>0.0002</north>
-								<east>0.0098</east>
-								<west>0.0098</west>
-							</depthOffset>
+							<layerOffset>
+								<south>1</south>
+								<north>-0.5</north>
+								<east>1.4</east>
+								<west>1.4</west>
+							</layerOffset>
 						</li>
 						<li>
 							<partName>Penis</partName>
@@ -634,12 +638,12 @@
 							<isBreasts>false</isBreasts>
 							<centeredTexture>true</centeredTexture>
 							<defNameOverride>Human</defNameOverride>
-							<depthOffset>
-								<south>0.0108</south>
-								<north>0.0025</north>
-								<east>0.0108</east>
-								<west>0.0108</west>
-							</depthOffset>
+							<layerOffset>
+								<south>1.8</south>
+								<north>0.4</north>
+								<east>1.8</east>
+								<west>1.8</west>
+							</layerOffset>
 						</li>
 						<li>
 							<partName>Balls</partName>
@@ -651,12 +655,12 @@
 							<isBreasts>false</isBreasts>
 							<centeredTexture>true</centeredTexture>
 							<defNameOverride>Human</defNameOverride>
-							<depthOffset>
-								<south>0.0096</south>
-								<north>0.0085</north>
-								<east>0.0096</east>
-								<west>0.0096</west>
-							</depthOffset>
+							<layerOffset>
+								<south>1.2</south>
+								<north>0.8</north>
+								<east>1.2</east>
+								<west>1.2</west>
+							</layerOffset>
 						</li>
 						<li>
 							<partName>PubicHair</partName>
@@ -667,13 +671,111 @@
 							<isBreasts>false</isBreasts>
 							<centeredTexture>true</centeredTexture>
 							<defNameOverride>Human</defNameOverride>
-							<depthOffset>
-								<south>0.0099</south>
-								<north>0.0099</north>
-								<east>0.0099</east>
-								<west>0.0099</west>
-							</depthOffset>
+							<layerOffset>
+								<south>1.6</south>
+								<north>1.6</north>
+								<east>1.6</east>
+								<west>1.6</west>
+							</layerOffset>
 						</li>
+					</Addons>
+			</li>
+			<li MayRequire="Ludeon.RimWorld.Biotech">
+				<bodyType>Child</bodyType>
+					<Addons>
+						<!-- <li> -->
+							<!-- <partName>Breasts</partName> -->
+							<!-- <boneName>Breasts</boneName> -->
+							<!-- <defaultHediffName>Breasts</defaultHediffName> -->
+							<!-- <bodyPartOf>Breasts</bodyPartOf> -->
+							<!-- <colorType>Skin</colorType> -->
+							<!-- <isBreasts>true</isBreasts> -->
+							<!-- <mustHaveBone>false</mustHaveBone> -->
+							<!-- <centeredTexture>false</centeredTexture> -->
+							<!-- <layerOffset> -->
+								<!-- <south>1</south> -->
+								<!-- <north>-1</north> -->
+								<!-- <east>1.6</east> -->
+								<!-- <west>1.6</west> -->
+							<!-- </layerOffset> -->
+						<!-- </li> -->
+						<!-- <li> -->
+							<!-- <partName>Vagina</partName> -->
+							<!-- <boneName>Vagina</boneName> -->
+							<!-- <defaultHediffName>Vagina</defaultHediffName> -->
+							<!-- <bodyPartOf>Vagina</bodyPartOf> -->
+							<!-- <colorType>Skin</colorType> -->
+							<!-- <isBreasts>false</isBreasts> -->
+							<!-- <mustHaveBone>true</mustHaveBone> -->
+							<!-- <centeredTexture>true</centeredTexture> -->
+							<!-- <layerOffset> -->
+								<!-- <south>1</south> -->
+								<!-- <north>1.2</north> -->
+								<!-- <east>0.0088</east> -->
+								<!-- <west>0.0088</west> -->
+							<!-- </layerOffset> -->
+						<!-- </li> -->
+						<!-- <li> -->
+							<!-- <partName>Anus</partName> -->
+							<!-- <boneName>Anus</boneName> -->
+							<!-- <defaultHediffName>Anus</defaultHediffName> -->
+							<!-- <bodyPartOf>Anus</bodyPartOf> -->
+							<!-- <colorType>Skin</colorType> -->
+							<!-- <isBreasts>false</isBreasts> -->
+							<!-- <centeredTexture>true</centeredTexture> -->
+							<!-- <layerOffset> -->
+								<!-- <south>0.8</south> -->
+								<!-- <north>1.6</north> -->
+								<!-- <east>0.8</east> -->
+								<!-- <west>0.8</west> -->
+							<!-- </layerOffset> -->
+						<!-- </li> -->
+						<!-- <li> -->
+							<!-- <partName>Belly</partName> -->
+							<!-- <boneName>Belly</boneName> -->
+							<!-- <defaultHediffName>BellyBulge</defaultHediffName> -->
+							<!-- <bodyPartOf>Belly</bodyPartOf> -->
+							<!-- <colorType>Skin</colorType> -->
+							<!-- <isBreasts>false</isBreasts> -->
+							<!-- <centeredTexture>false</centeredTexture> -->
+							<!-- <layerOffset> -->
+								<!-- <south>1.4</south> -->
+								<!-- <north>-0.5</north> -->
+								<!-- <east>1.4</east> -->
+								<!-- <west>1.4</west> -->
+							<!-- </layerOffset> -->
+						<!-- </li> -->
+						<!-- <li> -->
+							<!-- <partName>Penis</partName> -->
+							<!-- <boneName>Penis</boneName> -->
+							<!-- <defaultHediffName>Penis</defaultHediffName> -->
+							<!-- <bodyPartOf>Penis</bodyPartOf> -->
+							<!-- <colorType>Skin</colorType> -->
+							<!-- <isBreasts>false</isBreasts> -->
+							<!-- <centeredTexture>true</centeredTexture> -->
+							<!-- <layerOffset> -->
+								<!-- <south>1.8</south> -->
+								<!-- <north>0.4</north> -->
+								<!-- <east>1.8</east> -->
+								<!-- <west>1.8</west> -->
+							<!-- </layerOffset> -->
+						<!-- </li> -->
+						<!-- <li> -->
+							<!-- <partName>Balls</partName> -->
+							<!-- <boneName>Balls</boneName> -->
+							<!-- <defaultHediffName>Penis</defaultHediffName> -->
+							<!-- <bodyPartOf>Balls</bodyPartOf> -->
+							<!-- <customPath>Penis/Balls</customPath> -->
+							<!-- <colorType>Skin</colorType> -->
+							<!-- <isBreasts>false</isBreasts> -->
+							<!-- <centeredTexture>true</centeredTexture> -->
+							<!-- <layerOffset> -->
+								<!-- <south>1.2</south> -->
+								<!-- <north>0.8</north> -->
+								<!-- <east>1.2</east> -->
+								<!-- <west>1.2</west> -->
+							<!-- </layerOffset> -->
+						<!-- </li> -->
 					</Addons>
 			</li>
 		</bodies>
